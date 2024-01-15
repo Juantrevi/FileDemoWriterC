@@ -1,0 +1,14 @@
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\bin\Debug\net7.0\FileWriterDemo.exe
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\bin\Debug\net7.0\FileWriterDemo.deps.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\bin\Debug\net7.0\FileWriterDemo.runtimeconfig.json
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\bin\Debug\net7.0\FileWriterDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\bin\Debug\net7.0\FileWriterDemo.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\FileWriterDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\FileWriterDemo.AssemblyInfoInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\FileWriterDemo.AssemblyInfo.cs
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\FileWriterDemo.csproj.CoreCompileInputs.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\FileWriterDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\refint\FileWriterDemo.dll
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\FileWriterDemo.pdb
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\FileWriterDemo.genruntimeconfig.cache
+C:\Users\juant\OneDrive\Escritorio\Dorset\7 - OOP\FileWriterDemo\FileWriterDemo\obj\Debug\net7.0\ref\FileWriterDemo.dll
